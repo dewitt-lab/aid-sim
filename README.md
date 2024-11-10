@@ -10,7 +10,7 @@ conda env create -f env.yml
 
 ## Data
 
-[`data/241102Burst_summary.xlsx`](data/241102Burst_summary.xlsx)
+[`data/241110_Burst_summary.xlsx`](data/241110_Burst_summary.xlsx)
 
 ## Notebook
 

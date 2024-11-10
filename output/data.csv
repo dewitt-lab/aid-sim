@@ -1,4 +1,4 @@
-ID,# total GC seq,# in bursting node,# desc of bursting node,Norm burst,Norm  desc,# total in burst,population size,parental fraction
+ID,# total  GC seq,# in bursting node,# desc of bursting node,Norm burst,Norm desc,# total in burst,population size,parental fraction
 C_GC3_2,78,31,42,800.106671901067,1084.0154909627358,73,1884.1221628638027,0.4246575342465753
 C_GC5_3,44,15,15,618.6980119037496,618.6980119037496,30,1237.3960238074992,0.5
 M8-5.2:3_1 RY,89,13,55,269.0346321026047,1138.22344351102,68,1407.2580756136247,0.19117647058823528
